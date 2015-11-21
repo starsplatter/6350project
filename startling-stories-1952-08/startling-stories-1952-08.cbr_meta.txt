@@ -1,0 +1,15 @@
+ETag: "1e4a278392d42e42ea1ce15965434ec3"
+accept: */*
+authorization: LOW D7JBDnum0KwPVX5x:REDACTED_BY_IA_S3
+connection: close
+content-length: 29232899
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.21.6 (x86_64-pc-linux-gnu) libcurl/7.21.6 OpenSSL/1.0.0e zlib/1.2.3.4 libidn/1.22 librtmp/2.3
+x-amz-auto-make-bucket: 1
+x-archive-meta-date: 1952-08
+x-archive-meta-language: eng
+x-archive-meta-mediatype: texts
+x-archive-meta-title: Startling Stories
+x-archive-meta01-collection: pulpmagazinearchive
+x-upload-date: 2012-10-08T05:23:02.000Z
