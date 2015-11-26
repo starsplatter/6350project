@@ -58,7 +58,7 @@ def split_text(filename,n_words):
     return chunks
     
 pulp_files = glob.glob("*/*story.txt")
-chunk_length = 100
+chunk_length = 1000
 chunks = []
 writer = csv.writer(codecs.open('stories.txt', 'wb'))
 for filename in pulp_files:
