@@ -1,0 +1,482 @@
+Twenty-Foot Miss By WILLY LEY 
+
+IT HAPPENED about six years 
+ago in a research laboratory on 
+the Atlantic Coast. Somebody 
+of importance, a VIP in military 
+parlance, had announced his visit. 
+
+
+
+He arrived in time for lunch, and 
+the engineers, talking in relays, 
+used the opportunity to fill the 
+VIP with technical lore. Among 
+other things, he w.as told that they 
+
+would show him "Felix the Heatseeker." When the time came he 
+was ushered into an empty room. 
+In the center of that room there 
+was a turntable and on the turntable rested a bomb, staring at the 
+visitor through a lens in its nose. 
+Feeling slightly uneasy, the VIP 
+took a few steps to the right. The 
+bomb swung around on the turntable, pointing at him again, staring. He moved to the left. The 
+bomb turned after him, staring 
+with the lens in its nose — 
+
+
+
+This was, after all, a perfectly 
+natural thing, because Felix the 
+Heat-seeker was reacting to the 
+VIP's body temperature, which 
+may have gone up a degree or two 
+because of this performance. The 
+somewhat nerve-racking demonstration was, in part, a device for 
+being remembered in the budget. 
+In addition to that it was a kind 
+of summary of recent developments in military technology, a lecture with the theme that it is no 
+longer true that "a miss of an inch 
+
+
+
+TWENTY-FOOT MISS 
+
+
+
+87 
+
+
+
+is as good as a mile." The saying 
+should now be that a twenty-foot 
+miss is a clean hit. 
+
+That came about in three ways. 
+
+The first, simplest and also oldest is the exploding charge. If a 
+solid cannonball missed a soldier 
+by six inches, he could shrug and 
+continue charging. If, later on, a 
+105mm. howitzer shell exploded 
+at a distance of six feet from the 
+soldier, it was a hit. The biggest 
+application of this principle is, of 
+course, the fission bomb, which, 
+for this very reason, can't even be 
+a front line weapon any more. 
+
+The second way of transforming a miss into a hit is essentially 
+an addition to the exploding 
+charge. It is what may be called 
+the "sensing" fuze,* which will 
+perceive the nearness of a target 
+and respond at the precise fractional instant of closest approach. 
+
+The third, finally, is to correct 
+the trajectory of whatever you are 
+throwing at your enemy, prior to 
+missing the target, so that the 
+throw is turned into a hit. As far 
+as strict chronological sequence 
+goes, the third method was thought 
+of and even tested before the second, but the second, the sensing 
+fuze, was used first. 
+
+IT APPEARED in action during 
+the early days of the Second. 
+World War, just when the war 
+
+"The spelling FUZE Is the one authorized' 
+by the Dept. of Defense. This is to distinguish it from a FUSE, which is an electric 
+safety device. 
+
+
+
+looked quite leisurely. The manifestation of the new principle in 
+military technology was called a 
+"magnetic mine," which is hardly 
+a good name, for the device happened to be as non-magnetic as 
+possible. Up to that moment all 
+military engineers had known that 
+a fuze (unless it happened to be 
+a time fuze) had to make "contact" to be set off. That was still 
+true, but it had always been taken 
+for granted that any contact would 
+be a physical one. That there could 
+also be a contact of force fields 
+was new. 
+
+The fuze of the so-called magnetic mine relied on the simple 
+fact that the earth has a magnetic 
+field. The best known manifestation of that field is that it makes 
+n magnetic needle assume an approximate North-South position, 
+as in a compass. But if there is a 
+large mass of iron nearby — for example, a ship — the earth's magnetic field is disturbed fox some 
+distance and the compass needle 
+misbehaves. Any schoolbook says 
+so, but the Germans applied the 
+information lethally. 
+
+They built a naval mine of nonmagnetic materials, mostly aluminum, gave it the shape of an airplane bomb so that bombers could 
+plant it, and put a fuze inside 
+which would go off when a magnetic needle was disturbed. Such a 
+disturbance meant that there was 
+a large mass of iron nearby — 
+again, for example, a ship. They 
+
+
+
+88 
+
+
+
+
+ 
+
+
+
+also had a safety catch on that 
+fuze, consisting of a so-called 
+hydrostatic switch, a device which 
+prevented the fuze from working 
+unless it was under water which 
+opened the switch by its pressure. 
+
+It was the undoing of the 
+scheme that one of these parachuted mines did not fall into 
+water but landed on a mudbank. 
+Commander J. G. D. Ouvry, R. N., 
+approached the monster with a kit 
+of non-magnetic tools, mainly 
+bronze. He opened up the mine, 
+giving a running account of his 
+actions through a microphone so 
+that, in case of accident, the next 
+mine opener would know what had 
+been done wrong. He was both 
+skilful and lucky, since he happened to be protected by the faithful functioning of the hydrostatic 
+switch. The Allies then knew how 
+sudi a mine worked: it just sat in 
+the bottom mud of shallow water, 
+waiting for a ship to come close. 
+
+Once the principle of operation 
+was known, counter-measures were 
+not too difficult. Simultaneously the 
+torpedo experts at Newport, R. I., 
+began to think about disturbedforce fields. Torpedoes, if they 
+scored a hit, were very effective 
+weapons. They were also very expensive weapons, which point was 
+usually remembered when a torpedo made a near miss. The result 
+of the thinking about near misses 
+and disturbed force fields was that 
+the torpedo was cross-bred with an 
+advanced magnetic mine. 
+
+
+
+THE offspring was the Torpedo 
+Mark XIV with magnetic 
+fuze. It would explode when passing under a ship of shallow draft, 
+and it would explode even when 
+crossing the bow or stern. Performance was marred at first by a 
+mistake in calibration of the early 
+production models, and sailors 
+made remarks featuring the word 
+"long-hairs" — which they quickly 
+took back when the device was 
+made to work. 
+
+The most famous example of 
+sensing fuzes operated above the 
+water line. I mean what the military call the VT fuze. It means 
+"variable time," though engineers 
+are more likely to call it "proximity fuze." That fuze is something which is a bit hard to believe, not so much because of its 
+action, which makes it go off in 
+the proximity of a target, but because it is really a radio set. 
+
+You don't expect a radio set to 
+be still in one piece, or even in 
+working order, after it has been 
+shot from a gun. But the VT fuze, 
+after some 800 million dollars 
+were spent on its development, remains in working order. In fact, 
+it is not in working order before 
+firing; it needs the shock of firing 
+and the spinning of the shell to 
+activate its battery. 
+
+The working principle may 
+again be called that of a disturbed 
+force field, but it is utilized somewhat differently. When the battery 
+has been activated, the fuze sends 
+
+
+
+TWENTY-FOOT MISS 
+
+
+
+89 
+
+
+
+out a steady radio signal that 
+forms a kind of aura. As long as 
+nothing enters the aura, nothing 
+will happen. But when the shell 
+comes close to an airplane, radio 
+waves are reflected back to the 
+fuze. A special tube in the fuze 
+senses the reflection and builds up 
+resentment in the form of a charge. 
+When the charge has grown 
+strong enough — all this taking 
+place in fractions of a second — 
+this tube sets off a detonator. The 
+detonator explodes a booster 
+charge and the shock of the exploding booster makes the TNT 
+of the main charge go off. Which 
+is the end of the VT fuze and its 
+radio aura, but usually also the end 
+of the obstacle in the aura. 
+
+These VT fuzes accomplished 
+quite incredible feats during the 
+Second World War. At Anzio 
+Beach they downed 691 Luftwaffe 
+planes, aided by a gun-directing 
+mechanism known to ordnance personnel as the M-9. But the important point is not the large figure. 
+It is that out of these 691 hits, 
+some 680 were in all probability 
+near misses, old style! 
+
+HOWEVER, there must have 
+been an additional number of 
+actual misses beyond the range of 
+action of the VT fuze, for once a 
+shell had left the gun muzzle, it. 
+was on its own. To influence it 
+even after it had been fired was 
+the goal of the third method. 
+The third method, that of guid
+
+
+ing a lethal missile, cropped up 
+for the first time in 1911. It was, 
+of all places, in a circus in Berlin. 
+They had a model of a Zeppelin 
+airship there, about 15 feet long. 
+When the time for the act came, a 
+console was carried into the arena 
+and the inventor closed one switch. 
+The battery-powered electric motors of the airship model began 
+to whir and the ship moved. A 
+second switch was closed and the 
+airship model flew in a curve. A 
+third switch was closed; the airship dropped a small bomb, which 
+exploded with red flames and 
+much smoke in the sawdust. 
+
+Some time later, the same inventor demonstrated a motorboat 
+which he ran by wireless signals 
+from the shore of the lake. He 
+pointed out that this would be a 
+fine method for sending explosiveladen ships into enemy harbors or 
+fleet formations. Probably because 
+the range was very short and the 
+signals could easily have been 
+"jammed," these unmanned supertorpedoes failed to materialize during the First World War. After 
+that war, however, the Germans 
+utilized the idea in their famous 
+Zahringen, a small warship with 
+full armor but minus guns. Equipped with radio steering gear and 
+all empty spaces stuffed with cork, 
+the Zahringen did long service as 
+a mobile target ship. 
+
+People who have read Goethe's 
+Faust like to quote the lines: "All 
+theory, my friend, is gray; but life 
+
+
+
+90 
+
+
+
+
+ 
+
+
+
+a flowering green tree." It may be 
+true in some cases, but when it 
+comes to the guiding of missiles it 
+works the other way round. It all 
+looks fine and" lush in theory, in 
+real life performance, things begin to look dark. When Dr. Ralph 
+E. Gibson of the Applied Physics 
+Laboratory in Silver Springs, Md., 
+was interviewed recently, one reporter asked how far one could 
+fire a missile now. Doctor Gibson 
+was willing to concede some 500 
+miles or a little more. And for what 
+distance, asked another reporter, 
+would you guarantee a hit? Ten 
+feet, snapped Dr. Gibson. This I 
+consider somewhat understated; he 
+could have guaranteed a hit for 
+the length of the missile itself. 
+
+FACT is, in the Second World 
+War, the only guided missiles used operationally were those 
+released from aircraft, where conditions are somewhat simpler. There 
+were ground-to-ground missiles, 
+like V-l and V-2, but they were 
+not guided. In the V-l, a robot 
+pilot maintained the flying bomb 
+on a straight course and at a given 
+altitude. In the V-2, an automatic 
+device saw to it that the power was 
+shut off when the rocket had 
+reached the proper velocity, which 
+is, actually, the equivalent of doling 
+out the right powder charge for a 
+big gun. 
+
+Of true guiding there were only 
+beginnings. As an example I might 
+mention a large anti-aircraft rocket 
+
+
+
+that was supposed to form part of 
+the German Rhineland defense. 
+Naturally, the rocket was named 
+Rheintocbter or Rhine Maiden. The 
+idea was that when an allied bomber would be caught in a radar beam, 
+a Rhine Maiden would be fired immediately and be trailed by a second 
+beam, through which it would receive directional orders. Then the 
+two beams would be brought together. 
+
+It did not work too well and 
+most experts now believe that this 
+was not due to wartime hurry, but 
+that the system itself was at fault. 
+Those who think so prefer the "onebeam system," in which the antiaircraft missile is fed into the same 
+beam that has caught the attacker. 
+The missile receives no orders from 
+the ground, but is equipped with a 
+mechanism that will always shunt 
+it back into its beam. 
+
+Doctor Gibson calls that "conscience guiding," the missile being 
+unable to stray from the narrow 
+path leading to the enemy. Using 
+only one beam, this method is not 
+merely simpler, it has another advantage. Since one can feed several 
+missiles in succession into the beam, 
+the enemy would not have won out 
+by default just because a single 
+missile's conscience slipped. All 
+that would be needed for final success would be a radar man on the 
+ground who did not lose his target. 
+
+But why not just send the missile aloft in the general direction 
+of the enemy and entrust a device 
+
+
+
+TWENTY-FOOT MISS 
+
+
+
+97 
+
+
+
+like Felix the Heat-seeker with the 
+actual hunting? Well, during that 
+demonstration the engineers had 
+been careful to leave Felix alone 
+with just one source of heat radiation. In real action there would be 
+so many heat sources that any device would be confused. It would 
+have to be brought pretty close to 
+the intended prey until it could 
+take over. And even then it might 
+be useful only against an attacking 
+unmanned missile. If it tried to 
+chase a manned bomber, sniffing 
+either for the heat of its exhaust or 
+the noise of its engines, the crew 
+could do something about it. 
+
+They could, for example, drop an 
+instantaneously igniting incendiary 
+bomb with a parachute that keeps 
+it from falling too fast. The total 
+weight of such a bomb would be 
+around three pounds, small enough 
+to allow any plane to carry a considerable number of them. Result: 
+the heat-seeking interceptor would 
+suddenly get a much hotter scent 
+and strain all control surfaces in 
+diving wildly after the floating 
+magnesium bomb, blowing it successfully into smaller hot splinters. 
+Any competent fireworks chemist 
+can compound a mixture which does 
+no harm but produces a considerable 
+noise while burning. Incorporated 
+into a parachute bomb, that would 
+take care of noise-seeking missiles. 
+One can confuse the radar man on 
+the ground, too, but not that easily. 
+
+Going on from here, one could 
+ask: why specific measures? Why 
+
+
+
+not develop a field which will set 
+off all VT-fuzed projectiles and 
+missiles at a distance, where their 
+explosion can't cause any harm? 
+
+PERSONALLY, I don't know if 
+this can be done. I am mostly 
+wondering whether a plane could 
+carry the necessary equipment to 
+do it. But even if it can be done 
+and if the plane can carry the necessary equipment, there exists one 
+kind of VT fuze that might spoil 
+everything. It is the optical VT fuze 
+which actually sees the plane. 
+
+The trick is accomplished by 
+having a solid lucite lens which is 
+covered except for a slot running 
+all around the nose. Light enters 
+through the slot and is focused on 
+a photo-cell. An airplane that gets 
+in the way is just something that 
+acts as a partial screen reducing the 
+amount of light received by the 
+photo-cell. The photo-cell answers 
+with a change in voltage that does 
+what the reflected radio waves do 
+in the other type. 
+
+If you now feel like the VIP 
+who was left alone with Felix, you 
+find yourself in large company. All 
+these developments took place so 
+fast that nobody has been able to 
+think his way through. And if 
+there should be a good partial answer, it is not likely to be published. But it looks as if attack and 
+defense are better matched than 
+they were in 1940. By hard work 
+and ingenuity, things may be kept 
+that way.
